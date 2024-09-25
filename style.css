@@ -4,12 +4,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0c19b;
+    /* background-color: #f0c19b; */
+    background-color: rgb(125, 170, 147);
     margin: 0;
 }
 
 #app {
-    background: rgb(238, 132, 132);
+    /* background: rgb(238, 132, 132); */
+    background-color: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 2);
